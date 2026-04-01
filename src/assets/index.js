@@ -60,7 +60,7 @@ import frontendReactjs from "./tech/frontend/reactjs.png";
 import frontendRedux from "./tech/frontend/redux.png";
 import sass from "./tech/frontend/sass.png";
 import frontendTailwind from "./tech/frontend/tailwind.png";
-import frontendThreejs from "./tech/frontend/threejs.svg";
+import frontendThreejs from "./tech/frontend/threejs.png";
 import frontendTypescript from "./tech/frontend/typescript.png";
 import vue from "./tech/frontend/vue.PNG";
 import wordpress from "./tech/frontend/wordpress.png";
