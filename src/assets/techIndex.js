@@ -1,3 +1,24 @@
+import logo from "./logo.svg";
+import backend from "./backend.png";
+import creator from "./creator.png";
+import mobile from "./mobile.png";
+import web from "./web.png";
+import github from "./github.png";
+import menu from "./menu.svg";
+import close from "./close.svg";
+
+//companies
+import meta from "./company/meta.png";
+import asseco from "./company/asseco.png";
+import netguru from "./company/netguru.png";
+import polcode from "./company/polcode.png";
+
+//projects
+import carrent from "./carrent.png";
+import jobit from "./jobit.png";
+import tripguide from "./tripguide.png";
+
+//backend
 import ASP from "./tech/backend/ASP.PNG";
 import django from "./tech/backend/django.PNG";
 import expressjs from "./tech/backend/expressjs.png";
@@ -51,21 +72,6 @@ import othersGit from "./tech/others/git.png";
 import othersGithub from "./tech/others/github.png";
 import heroku from "./tech/others/heroku.png";
 
-// Top-level (already exist but re-export)
-import techCss from "./tech/css.png";
-import techDocker from "./tech/docker.png";
-import techFigma from "./tech/figma.png";
-import techGit from "./tech/git.png";
-import techHtml from "./tech/html.png";
-import techJavascript from "./tech/javascript.png";
-import techMongodb from "./tech/mongodb.png";
-import techNodejs from "./tech/nodejs.png";
-import techReactjs from "./tech/reactjs.png";
-import techRedux from "./tech/redux.png";
-import techTailwind from "./tech/tailwind.png";
-import techThreejs from "./tech/threejs.svg";
-import techTypescript from "./tech/typescript.png";
-
 export {
   // Backend
   ASP,
@@ -117,19 +123,23 @@ export {
   othersGit,
   othersGithub,
   heroku,
-  // Top-level
-  techCss,
-  techDocker,
-  techFigma,
-  techGit,
-  techHtml,
-  techJavascript,
-  techMongodb,
-  techNodejs,
-  techReactjs,
-  techRedux,
-  techTailwind,
-  techThreejs,
-  techTypescript,
+  // Other assets
+  logo,
+  backend,
+  creator,
+  mobile,
+  web,
+  github,
+  menu,
+  close,
+  //companies
+  meta,
+  asseco,
+  netguru,
+  polcode,
+  //projects
+  carrent,
+  jobit,
+  tripguide,
 };
 
