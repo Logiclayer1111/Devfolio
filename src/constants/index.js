@@ -1,3 +1,4 @@
+import { n } from "maath/dist/index-43782085.esm";
 import {
   //other assets
   logo,
@@ -105,37 +106,90 @@ const services = [
 
 const technologiesFrontend = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Android",
+    icon: android,
+  }, 
+  {
+    name: "Angular",
+    icon: angular,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Bootstrap",
+    icon: bootstrap,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "Cpp",
+    icon: cpp,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Chakra",
+    icon: chakra,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "FrontendCss",
+    icon: frontendCss,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "FrontendHtml",
+    icon: frontendHtml,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "FrontendJavascript",
+    icon: frontendJavascript,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "FrontendReactjs",
+    icon: frontendReactjs,
+  },
+  {
+    name: "FrontendRedux",
+    icon: frontendRedux,
+  },
+  {
+    name: "FrontendTailwind",
+    icon: frontendTailwind,
+  },
+  {
+    name: "FrontendThreejs",
+    icon: frontendThreejs,
+  },
+  {
+    name: "FrontendTypescript",
+    icon: frontendTypescript,
+  },
+  {
+    name: "Vue",
+    icon: vue,
+  },
+  {
+    name: "Wordpress",
+    icon: wordpress,
+  },
+  {
+    name:"JQuery",
+    icon: jquery,
+  },
+  {
+    name:"Sass",
+    icon: sass,
+  },
+  {
+    name:"Material UI",
+    icon: materialUi,
+  },
+  {
+    name:"Next JS",
+    icon: next,
+  },
+  {
+    name:"GraphQL",
+    icon: graphQL,
+  },
+  {
+    name:"Java",
+    icon: java,
   }
+
 ];
 
 const technologiesBackend = [
