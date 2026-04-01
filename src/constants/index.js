@@ -267,4 +267,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologiesFrontend, technologiesBackend, technologiesDatabase, technologiesOthers, experiences, testimonials, projects };
