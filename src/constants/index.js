@@ -59,7 +59,7 @@ const services = [
   },
 ];
 
-const technologies = [
+const technologiesFrontend = [
   {
     name: "HTML 5",
     icon: html,
@@ -89,28 +89,37 @@ const technologies = [
     icon: tailwind,
   },
   {
+    name: "Three JS",
+    icon: threejs,
+  }
+];
+
+const technologiesBackend = [
+  {
     name: "Node JS",
     icon: nodejs,
   },
   {
+    name: "Docker",
+    icon: docker,
+  }
+];
+
+const technologiesDatabase = [
+  {
     name: "MongoDB",
     icon: mongodb,
-  },
+  }
+];
+
+const technologiesOthers = [
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   }
 ];
 
