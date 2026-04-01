@@ -29,7 +29,7 @@ import kotlin from "./tech/backend/kotlin.png";
 import backendNodejs from "./tech/backend/nodejs.png";
 import php from "./tech/backend/php.png";
 import python from "./tech/backend/python.png";
-import rust from "./tech/backend/rust.PNG";
+import rust from "./tech/backend/rust.png";
 import springBoot from "./tech/backend/springBoot.png";
 
 // Database
