@@ -1,3 +1,4 @@
+//other assets
 import logo from "./logo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
