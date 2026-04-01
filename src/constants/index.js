@@ -194,12 +194,48 @@ const technologiesFrontend = [
 
 const technologiesBackend = [
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "ASP.NET",
+    icon: ASP,
   },
   {
-    name: "Docker",
-    icon: docker,
+    name: "Django",
+    icon: django,
+  },
+  {
+    name: "Express",
+    icon: expressjs,
+  },
+  {
+    name: "Flask",
+    icon: flask,
+  },
+  {
+    name: "Golang",
+    icon: goLang,
+  },
+  {
+    name: "Kotlin",
+    icon: kotlin,
+  },
+  {
+    name: "Node.js",
+    icon: backendNodejs,
+  },
+  {
+    name: "PHP",
+    icon: php,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "Rust",
+    icon: rust,
+  },
+  {
+    name: "Spring Boot",
+    icon: springBoot,
   }
 ];
 
