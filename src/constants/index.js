@@ -276,12 +276,28 @@ const technologiesDatabase = [
 
 const technologiesOthers = [
   {
-    name: "Git",
-    icon: git,
+    name: "Amazon Web Services",
+    icon: amazon,
+  },
+  {
+    name: "Digital Ocean",
+    icon: digitalocean,
   },
   {
     name: "Figma",
-    icon: figma,
+    icon: othersFigma,
+  },
+  {
+    name: "Git",
+    icon: othersGit,
+  },
+  {
+    name: "Github",
+    icon: othersGithub,
+  },
+  {
+    name: "Heroku",
+    icon: heroku,
   }
 ];
 
