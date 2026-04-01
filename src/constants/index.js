@@ -242,7 +242,35 @@ const technologiesBackend = [
 const technologiesDatabase = [
   {
     name: "MongoDB",
-    icon: mongodb,
+    icon: databaseMongodb,
+  },
+  {
+    name: "CouchDB",
+    icon: couchdb,
+  },
+  {
+    name: "DynamoDB",
+    icon: dynamoDB,
+  },
+  {
+    name: "Firebase",
+    icon: firebase,
+  },
+  {
+    name: "MySQL",
+    icon: mysql,
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgreesql,
+  },
+  {
+    name: "Redis",
+    icon: redis,
+  },
+  {
+    name: "Docker",
+    icon: databaseDocker,
   }
 ];
 
