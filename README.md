@@ -32,7 +32,6 @@ The **Dev Portfolio** project focuses on creating a portfolio website. This READ
 
 This website is Designed/Created by [Antoni Nowicki](https://github.com/logiclayer1111).
 
-<img src="https://github.com/Saurabhkr952/dev-portfolio/assets/32189783/9b840485-5588-4e4d-92e5-742801a5a149" alt="dev-portfolio website" width="800" height="480" />
 
 ## Tech Stack
 
