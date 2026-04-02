@@ -90,6 +90,9 @@ When deploying your application in a Kubernetes cluster, having sufficient resou
 
 To address this, we need to scale the ingress controller based on HTTP requests. As depicted in the diagram below, the left image shows a single ingress controller handling a large amount of traffic, which can lead to latency issues or timeouts for customers. On the right, multiple ingress controller pods handle the traffic more efficiently by scaling based on active requests.
 
+### Run project
+   npm install --legacy-peer-deps
+   npm run dev
 <img src="/assets/scale-ingress-controller.png" alt="nginx-ingress-controller" width="800" height="480" />
  
 #### Steps to scale the ingress controller 
