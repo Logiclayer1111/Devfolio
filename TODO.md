@@ -10,8 +10,12 @@
 - [x] 1. Temporary swap test completed (Frontend first ball still blank despite working MongoDB icon & Network loads)
 - [x] Swap reverted to android
 
-## Pending
-- [ ] 3. Fix Tech.jsx: Render static img tag for frontend/backend techs (bypass BallCanvas/3D texture issue)
-- [ ] 4. Test display
-- [ ] 5. Complete
+## Completed
+- [x] 3. Fixed Tech.jsx: Static img for Frontend/Backend (bypass 3D texture issue), BallCanvas for Database/Others
+- [x] Changes saved
+
+## Completed ✅
+- [x] User confirmed: Frontend/Backend static images display, Database/Others 3D balls work
+- [x] Task complete: All tech images now visible in browser
+
 
