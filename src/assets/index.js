@@ -20,7 +20,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 //backend
-import ASP from "./tech/backend/ASP.png";
+import ASP from "./tech/backend/ASP.jpg";
 import django from "./tech/backend/django.png";
 import expressjs from "./tech/backend/expressjs.png";
 import flask from "./tech/backend/flask.png";
